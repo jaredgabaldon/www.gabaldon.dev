@@ -1,5 +1,5 @@
 # Site settings
-title: my fancy website
+title: "my fancy website"
 email: 
 description: > cool thing
 baseurl: "" # the subpath of your site, e.g. /blog/
