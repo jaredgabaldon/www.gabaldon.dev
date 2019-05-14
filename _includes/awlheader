@@ -1,0 +1,9 @@
+<header>
+    <div class="header-content">
+        <div class="header-content-inner">
+            <h1>Jared Gabaldon</h1>
+            <hr>
+            <p>I am a mechanical engineer and expert in statistical process control. I study the variation of a manufacturing process to decrease the overall variation of production to minimize downtown, boost production speeds, and increase the overall reliability of a product.. </p>
+            <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+        </div>
+    </div>
