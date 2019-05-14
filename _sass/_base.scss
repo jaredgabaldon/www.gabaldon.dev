@@ -214,12 +214,12 @@ fidheader {
     background-image: url('../img/header.jpg');
     text-align: center;
     color: white;
-    .header-content {
+    .fidheader-content {
         position: relative;
         text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
-        .header-content-inner {
+        .fidheader-content-inner {
             h1 {
                 font-weight: 700;
                 text-transform: uppercase;
@@ -239,14 +239,14 @@ fidheader {
     }
     @media (min-width: 768px) {
         min-height: 100%;
-        .header-content {
+        .fidheader-content {
             position: absolute;
             top: 50%;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
             padding: 0 50px;
-            .header-content-inner {
+            .fidheader-content-inner {
                 max-width: 1000px;
                 margin-left: auto;
                 margin-right: auto;
